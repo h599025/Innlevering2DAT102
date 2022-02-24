@@ -6,7 +6,7 @@ import no.hvl.dat102.mengde.tabell.TabellMengde;
 
 public class DatakontaktMain {
 
-	public static <T> void main(String[] args) {
+	public static void main(String[] args) {
 		Datakontakt Dating = new Datakontakt(3);
 		Hobby Volleyball = new Hobby("Volleyball");
 		
